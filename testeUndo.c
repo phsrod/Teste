@@ -63,7 +63,7 @@ int main(){
     int opcao;
     int num;
 
-    printf("=========================================");
+    printf("|||=========================================|||");
     printf("=== Gerenciador de Pilha com Undo ===\n");
 
     while (1){
